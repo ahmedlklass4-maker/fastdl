@@ -1,0 +1,25 @@
+Music_Login:
+
+* - Musica original de Sven-Coop 4.8 y HL:OF.
+
+Sound_ambiente:
+
+* - Sound del catalogo de ambiente del juego de Sven-Coop 4.8 y los otros aportados por Pirucho XP-007.
+
+Login_CG:
+
+* - Sound aportados por la comunidad Central Gamer.
+
+==========================================================================================================
+
+Music_Login:
+
+* - Original music from Sven-Coop 4.8 and HL: OF.
+
+Sound_ambiente:
+
+* - Sound from the Sven-Coop 4.8 game environment catalog and the others contributed by Pirucho XP-007.
+
+Login_CG:
+
+* - Sound contributed by the Central Gamer community.

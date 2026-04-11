@@ -1,0 +1,8 @@
+// Lista de los mapas con reproduccion de musicas.
+new const STR_DATA[][enumMusic]={
+	// Lista de musicas:
+	{"ze_zero", "sound/vhe/ze_zero/music_login/music_a.mp3"},
+	{"ze_zero", "sound/vhe/ze_zero/music_login/music_b.mp3"},
+	{"ze_zero", "sound/vhe/ze_zero/music_login/music_c.mp3"},
+	{"ze_zero", "sound/vhe/svencoop01.wav"}
+}
