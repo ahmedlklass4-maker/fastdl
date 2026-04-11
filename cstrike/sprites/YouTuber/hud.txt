@@ -1,0 +1,2 @@
+d_awmtl				640 awm	0	45	48	16
+d_rpkpl				640 rpk	0	45	48	16

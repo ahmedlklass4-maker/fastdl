@@ -1,0 +1,4 @@
+3
+weapon 640 addons/drill_weapon1 0 0 170 45
+weapon_s 640 addons/drill_weapon1 0 45 170 45
+ammo 640 addons/drill_ammo1 222 176 24 24
