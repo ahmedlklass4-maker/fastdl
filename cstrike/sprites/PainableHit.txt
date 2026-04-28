@@ -1,3 +1,0 @@
-2
-autoaim		640 FrozenTerror/PainableHit 0 0 64 64
-crosshair	640 FrozenTerror/PainableHit 0 0 64 64
